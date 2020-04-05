@@ -1,0 +1,66 @@
+#shanky-span-mailto {
+    display: block !important;
+    font-family: "poppins-regular", sans-serif !important;;
+    color: #888888 !important;;
+    font-size: 1.5rem !important;;
+    line-height: 1 !important;;
+}
+
+#shanky-span-mailto:hover {
+    color: #FF0077 !important;
+}
+
+#emailMeBottomLink {
+    color: #6e6e6e !important;
+}
+
+#emailMeBottomLink:hover {
+    color: #FF0077 !important;
+}
+
+.statCountPrefix {
+    color: #FFFFFF;
+    font-size: 3.6rem;
+    margin-top: 1.2rem;
+    margin-bottom: 0;
+    font-family: "poppins-medium", sans-serif;
+    float: left;
+}
+
+.statCountPrefix.infinite {
+    float: initial;
+}
+
+.services-content {
+    position: relative !important;
+}
+
+.currButton {
+    color: rgba(255, 255, 255, 0.6) !important;
+    border-color: rgba(255, 255, 255, 0.6) !important;
+}
+
+.currButton:hover {
+    color: #FF0077 !important;
+    border-color: #FF0077 !important;
+}
+
+.copyrightOver{
+    font-size: 0.6em !important;
+    opacity: 0 !important;
+}
+
+.menuIconRowOver{
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.top-bar-Overriden{
+    left: 0 !important;
+    min-width: 180px !important;
+    background: transparent !important;
+}
+
+.customIsClicked{
+    background: #000000 !important;
+}
