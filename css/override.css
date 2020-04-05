@@ -7,7 +7,7 @@
 }
 
 #shanky-span-mailto:hover {
-    color: #FF0077 !important;
+    color: #08fdd8 !important;
 }
 
 #emailMeBottomLink {
@@ -15,7 +15,7 @@
 }
 
 #emailMeBottomLink:hover {
-    color: #FF0077 !important;
+    color: #08fdd8 !important;
 }
 
 .statCountPrefix {
@@ -41,8 +41,8 @@
 }
 
 .currButton:hover {
-    color: #FF0077 !important;
-    border-color: #FF0077 !important;
+    color: #08fdd8 !important;
+    border-color: #08fdd8 !important;
 }
 
 .copyrightOver{
