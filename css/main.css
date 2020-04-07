@@ -2590,3 +2590,12 @@ footer .copyright span:last-child::after {
 }
 
 /*# sourceMappingURL=main.css.map */
+
+.gitSourceCode{
+	transition: all .2s;
+}
+
+.gitSourceCode:hover{
+	opacity: 0.8;
+	color: #000;
+}
