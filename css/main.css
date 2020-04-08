@@ -2599,3 +2599,7 @@ footer .copyright span:last-child::after {
 	opacity: 0.8;
 	color: #000;
 }
+
+.links3{
+	width: calc(100%/3) !important;
+}
